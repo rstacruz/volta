@@ -1,0 +1,12 @@
+var ALIASES = {};
+ALIASES["archive"] = {};
+ALIASES["fs_utils"] = {};
+ALIASES["headers_011"] = {};
+ALIASES["progress_read"] = {};
+ALIASES["validate_npm_package_name"] = {};
+ALIASES["volta"] = {};
+ALIASES["volta_core"] = {};
+ALIASES["volta_fail"] = {};
+ALIASES["volta_layout"] = {};
+ALIASES["volta_migrate"] = {};
+ALIASES["volta_shim"] = {};

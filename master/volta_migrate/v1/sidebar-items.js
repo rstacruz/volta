@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["V1","Represents a V1 Volta Layout (from v0.7.0)"]]});

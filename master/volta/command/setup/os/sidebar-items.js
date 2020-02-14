@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["PROFILES",""]],"fn":[["read_profile_without_volta",""],["setup_environment",""],["write_profile_fish",""],["write_profile_sh",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["command",""]],"struct":[["DefaultBinary","Information about the location and execution context of default binaries"]]});

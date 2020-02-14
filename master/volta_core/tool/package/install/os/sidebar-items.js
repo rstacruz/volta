@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["set_executable_permissions","Ensure that a given binary has 'executable' permissions on Unix, otherwise we won't be able to call it"]]});

@@ -1,0 +1,13 @@
+var N = null;var sourcesIndex = {};
+sourcesIndex["archive"] = {"name":"","files":["lib.rs","tarball.rs","zip.rs"]};
+sourcesIndex["fs_utils"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["headers_011"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["progress_read"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["validate_npm_package_name"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["volta"] = {"name":"","dirs":[{"name":"command","dirs":[{"name":"list","files":["mod.rs","plain.rs","toolchain.rs"]}],"files":["completions.rs","fetch.rs","install.rs","mod.rs","pin.rs","setup.rs","uninstall.rs","use.rs","which.rs"]}],"files":["cli.rs","common.rs","main.rs"]};
+sourcesIndex["volta_core"] = {"name":"","dirs":[{"name":"error","files":["details.rs","mod.rs","reporter.rs"]},{"name":"hook","files":["mod.rs","serial.rs","tool.rs"]},{"name":"inventory","files":["mod.rs","node.rs","package.rs","yarn.rs"]},{"name":"layout","files":["mod.rs","unix.rs"]},{"name":"manifest","files":["mod.rs","serial.rs"]},{"name":"platform","files":["mod.rs","sourced.rs"]},{"name":"run","files":["binary.rs","mod.rs","node.rs","npm.rs","npx.rs","yarn.rs"]},{"name":"tool","dirs":[{"name":"node","files":["fetch.rs","mod.rs","resolve.rs","serial.rs"]},{"name":"npm","files":["mod.rs"]},{"name":"package","files":["fetch.rs","install.rs","mod.rs","resolve.rs","serial.rs"]},{"name":"yarn","files":["fetch.rs","mod.rs","resolve.rs","serial.rs"]}],"files":["mod.rs","serial.rs"]},{"name":"toolchain","files":["mod.rs","serial.rs"]},{"name":"version","files":["mod.rs","serial.rs"]}],"files":["command.rs","event.rs","fs.rs","lib.rs","log.rs","monitor.rs","project.rs","session.rs","shim.rs","signal.rs","style.rs"]};
+sourcesIndex["volta_fail"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["volta_layout"] = {"name":"","files":["lib.rs","macros.rs","v0.rs","v1.rs"]};
+sourcesIndex["volta_migrate"] = {"name":"","files":["volta-migrate.rs"]};
+sourcesIndex["volta_shim"] = {"name":"","files":["common.rs","volta-shim.rs"]};
+createSourceSidebar();

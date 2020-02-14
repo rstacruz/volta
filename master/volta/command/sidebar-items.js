@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["completions",""],["fetch",""],["install",""],["list",""],["pin",""],["setup",""],["uninstall",""],["use",""],["which",""]],"trait":[["Command","A Volta command."]]});
